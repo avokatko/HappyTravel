@@ -133,8 +133,7 @@ themeToggle.addEventListener("click", () => {
 
   if (isDarkMode) {
     // DARK MODE
-    themeIcon.src =
-      "/Users/katarinanovakova/Desktop/VSCode/Projekt3/images/light_mode.png"
+    themeIcon.src = "images/light_mode.png"
     themeIcon.alt = "Light mode"
     body.style.backgroundColor = "black"
     header.style.backgroundColor = "#152d46"
@@ -151,8 +150,7 @@ themeToggle.addEventListener("click", () => {
     footerP.style.color = "white"
   } else {
     // LIGHT MODE
-    themeIcon.src =
-      "/Users/katarinanovakova/Desktop/VSCode/Projekt3/images/dark_mode.png"
+    themeIcon.src = "images/dark_mode.png"
     themeIcon.alt = "Dark mode"
     body.style.backgroundColor = "white"
     header.style.backgroundColor = "#2c5f95"
