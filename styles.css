@@ -74,7 +74,7 @@ nav li a {
 
 .sec-background {
   height: 90vh;
-  background-image: url(/Users/katarinanovakova/Desktop/VSCode/Projekt3/images/map.jpg);
+  background-image: url(images/map.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
